@@ -1,6 +1,8 @@
 # notCoffee
 notCoffee is a CLEO Redux plugin for Grand Theft Auto: San Andreas that extends R*'s 'Hot Coffee' minigame beyond encounters with CJ's girlfriends.
 
+The player can now pick up street workers and will be able to take them to a motel in Idlewood to trigger the minigame.
+
 # requirements
 CLEO, CLEO Redux, SA.Audio.cleo & CLEO+.cleo
 
